@@ -1,2 +1,3 @@
-# doppelganger
-AR Mirror
+# Doppelganger
+An AR Mirror projeckt.
+
